@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicsGpRemovePayment", "DynamicsGpRemovePayment\DynamicsGpRemovePayment.csproj", "{AA36DEFA-3AD6-4F5A-A224-8FF10BA4D908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA36DEFA-3AD6-4F5A-A224-8FF10BA4D908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA36DEFA-3AD6-4F5A-A224-8FF10BA4D908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA36DEFA-3AD6-4F5A-A224-8FF10BA4D908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA36DEFA-3AD6-4F5A-A224-8FF10BA4D908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F1545B6-2226-4B26-9354-EF0E587D1F82}
+	EndGlobalSection
+EndGlobal
